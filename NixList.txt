@@ -1,0 +1,76 @@
+[Adblock Plus]
+! Title: Nixsy's Small Additions - blocks a few missed here https://superadblocktest.com/
+! Description: This blocklist targets fake stores, fake streaming sites, rip-offs, subscription traps, and similar scams.
+! Homepage: https://github.com/hagezi/dns-blocklists
+! License: https://ai-lab.host/flatpress/Static-Open-Source-License-v3-0.php
+! Expires: 8 hours
+! Last modified: 13 Sep 2026 14:12 UTC
+! Version: 0.0.0.1
+! Syntax: AdBlock
+! Number of entries: 64
+!
+||analyticsengine.s3.amazonaws.com^
+||advertising-api-eu.amazon.com^
+||liftoff.io^
+||adtech.yahooinc.com^
+||auction.unityads.unity3d.com^
+||webview.unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||adserver.unityads.unity3d.com^
+||api.fyber.com^
+||ironsource.mobi^
+||s.youtube.com^
+||redirector.googlevideo.com^
+||quantcast.com^
+||rudderstack.com^
+||snowplowanalytics.com^
+||fingerprintjs.com^
+||bnc.lt^
+||log.byteoversea.com^
+||mon.tiktokv.com^
+||advertising.apple.com^
+||tr.iadsdk.apple.com^
+||iadsdk.apple.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
+||xp.apple.com^
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+||adsfs.oppomobile.com^
+||adx.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+||grs.hicloud.com^
+||ads.huawei.com^
+||data.mistat.xiaomi.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||tracking.rus.miui.com^
+||ngfts.lge.com^
+||smartclip.com^
+||browser.events.data.msn.com^
+||device-metrics-us.amazon.com^
+||device-metrics-us-2.amazon.com^
+||mads-eu.amazon.com^
+||ads.roku.com^
+||cdn.cookielaw.org^
+||consent.trustarc.com^
+||cdn.privacy-mgmt.com^
+||cdn.optimizely.com^
+||cdn.dynamicyield.com^
+||st.dynamicyield.com^
+||clientstream.launchdarkly.com^
+||click.mailchimp.com^
+||widget.intercom.io^
+||js.driftt.com^
+||sdk.iad-01.braze.com^
+||static.klaviyo.com^
+||a.klaviyo.com^
+||dai.google.com^
+||g.jwpsrv.com^
+||ssl.p.jwpcdn.com^
+||bea4.v.fwmrm.net^
+||2975c.v.fwmrm.net
